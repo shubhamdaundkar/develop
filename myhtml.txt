@@ -1,0 +1,261 @@
+<html>
+
+	<head>
+
+		<title>
+
+			CSS  PAGE
+
+		</title>
+
+	<style type="text/css">
+
+		h1
+
+		{
+
+			background-color: blue;
+
+			text-align: center;
+
+		}
+
+	</style>
+
+		<link rel="stylesheet" type="text/css" href="mystyle.css">
+
+	</head>
+
+	<body>
+
+		<h1 id="firsthead">
+
+			Demo Stylesheet 
+
+		</h1>
+
+		<div class="complete">
+
+			<p>
+
+			Contrary to popular belief, Lorem Ipsum is not simply random text.It has roots in a piece of classical Latin literature from 45 BC,
+
+			  making it over 2000 years old. 
+
+			</p>
+
+		<div class="img1">
+
+			<img src="sgdsg.jpg">Rose		
+
+		  <img src="dsgsd.jpg">Sunflower
+
+		  	
+
+		</div>
+
+		<p>
+
+			But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness.
+
+		</p>
+
+		</div>
+
+		
+
+		<footer>
+
+			&copy Copyright ABC@2017
+
+		</footer>
+
+		
+
+	</body>
+
+</html>
+
+
+B
+
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+
